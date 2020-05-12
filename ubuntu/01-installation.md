@@ -1,5 +1,11 @@
 # Installation
 
+## Requirements
+
+* MacBook
+* USB stick
+* A desktop computer or laptop to install Ubuntu
+
 ## Prepare USB Stick
 
 Use your Mac book air to create a bootable USB stick containing Ubuntu image
