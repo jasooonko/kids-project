@@ -10,7 +10,7 @@
 
 Use your Mac book air to create a bootable USB stick containing Ubuntu image
 
-https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-macos#6-write-to-device
+https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-macos#3-prepare-the-usb-stick
 
 ** No need to do step 7 **
 
